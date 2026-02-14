@@ -1,6 +1,6 @@
 ---
 
-## 📸 Investigation Screenshots
+## Investigation Screenshots
 
 ### Email Header Analysis
 ![Header Analysis](screenshots/header-analysis.png)
