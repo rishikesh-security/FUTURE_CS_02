@@ -3,10 +3,10 @@
 ## Investigation Screenshots
 
 ### Email Header Analysis
-![Header Analysis](screenshots/header-analysis.png)
+![Header Analysis]
 
 ### Browser Inspection
-![Browser Inspection](screenshots/browser-inspection.png)
+![Browser Inspection]
 
-### Authentication Failure Check
-![Message Header Result](screenshots/messageheader-result.png)
+### messageheader
+![Message Header Result]
